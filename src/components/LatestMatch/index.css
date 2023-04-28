@@ -1,0 +1,57 @@
+.latest-details-container {
+  background-color: #1e293b;
+  padding: 10px;
+  border-radius: 15px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.teamName {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 600;
+  font-size: 29px;
+}
+
+.date {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.venue {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 23px;
+  text-align: end;
+}
+
+.venue1 {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.won-team-logo {
+  width: 50%;
+  margin-left: 20px;
+}
+
+.answer {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 100;
+  font-style: italic;
+  font-size: 14px;
+  text-align: end;
+}
+
+.abc {
+  display: flex;
+  justify-content: center;
+}

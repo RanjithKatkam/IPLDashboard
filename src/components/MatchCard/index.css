@@ -1,0 +1,58 @@
+.recent-match-list-div {
+  list-style-type: none;
+  background-color: #1e293b;
+  height: 460px;
+  width: 375px;
+  margin: 5px 30px 5px 45px;
+  border-radius: 13px;
+}
+
+.card-content {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.recent-team-logo {
+  width: 120px;
+  height: 130px;
+  margin-top: 25px;
+}
+
+.recent-team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  font-size: 23px;
+  width: 200px;
+  text-align: center;
+}
+
+.recent-result {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 17px;
+  width: 300px;
+  text-align: center;
+}
+
+.lost {
+  color: #e31a1a;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 26px;
+  width: 200px;
+  text-align: center;
+}
+
+.won {
+  color: #18ed66;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 26px;
+  width: 200px;
+  text-align: center;
+}
